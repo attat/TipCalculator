@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Apr 10 21:25:42 PDT 2017
+2.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v17\\activity_tip_calculator.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_tip_calculator.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_28f85693423eed405a5e569e914999df7135ab1f
+7.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+5.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\restaurant.jpg
+4.set=DEX
+6.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_adb8165fee19f57af9fac3509a4d0aa08eb1696d\\classes.dex
+9.set=ANDROID_RESOURCE
+9.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_tip_calculator.xml
+1.set=DEX
+7.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_adb8165fee19f57af9fac3509a4d0aa08eb1696d
+9.base=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_28f85693423eed405a5e569e914999df7135ab1f\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\murach\\android\\book_apps\\ch06_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_tip_calculator.xml",
+        "source": "C:\\murach\\android\\book_apps\\ch06_TipCalculator\\app\\src\\main\\res\\menu\\activity_tip_calculator.xml"
+    },
+    {
+        "merged": "C:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_tip_calculator.xml",
+        "source": "C:\\murach\\android\\book_apps\\TipCalculator\\app\\src\\main\\res\\menu\\activity_tip_calculator.xml"
+    }
+]

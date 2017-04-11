@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\murach\\android\\book_apps\\ch06_TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\restaurant.jpg",
+        "source": "C:\\murach\\android\\book_apps\\ch06_TipCalculator\\app\\src\\main\\res\\drawable-hdpi\\restaurant.jpg"
+    },
+    {
+        "merged": "C:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\restaurant.jpg",
+        "source": "C:\\murach\\android\\book_apps\\TipCalculator\\app\\src\\main\\res\\drawable-hdpi\\restaurant.jpg"
+    }
+]

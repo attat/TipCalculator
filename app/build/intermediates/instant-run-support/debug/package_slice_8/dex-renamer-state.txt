@@ -1,0 +1,4 @@
+#Mon Apr 10 21:25:40 PDT 2017
+base.0=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\murach\\android\\book_apps\\TipCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
